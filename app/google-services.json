@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410281439096",
+    "project_id": "recyclerview-test-app",
+    "storage_bucket": "recyclerview-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410281439096:android:d075d0d16e20ac15d2e28d",
+        "android_client_info": {
+          "package_name": "com.muhsantech.recyclerviewtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410281439096-9pjr8tf8lsgs1kve48tk6ns5mto8vjlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGBww6zYhoTkl09nif7JXPJWrSx9cpgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410281439096-9pjr8tf8lsgs1kve48tk6ns5mto8vjlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
